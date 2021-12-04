@@ -18,6 +18,7 @@ main{
     width: 350px;
     height: 600px;
     background-color: hsl(216, 50%, 16%);
+    border-radius: 20px ;
 }
 
 .nft{
@@ -38,10 +39,11 @@ main{
 .text{
     padding-left: 25px;
     text-align: justify;
-    color: hsl(215, 32%, 27%);
+    color: hsl(215, 51%, 70%);
     font-family: 'Outfit';
     font-weight: 400;
     font-size: 18px;
+    padding-right: 25px;
 }
 
 .value{
@@ -49,22 +51,36 @@ main{
     flex-direction: row;
     width: 100%;
     justify-content: space-between;
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
 
 .eth{
     padding-left: 25px;
+    color: hsl(178, 100%, 50%);
 }
 
 .days{
     padding-right: 25px;
+    color: hsl(215, 51%, 70%);
 }
 
 .creator{
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
+    align-items: flex-end;
     width: 100%;
     padding-left: 50px;
+}
+
+.creator p{
+    padding-left: 10px;
+    color: hsl(215, 51%, 70%);
+}
+
+.Jules{
+    color: white;
 }
 
 .avatar{
