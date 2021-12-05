@@ -49,10 +49,11 @@ Os usuários devem ser capazes de:
 <p  align="center" >
   <img src="images/127.0.0.gif"/>
 </p>
+
 ### Links
 
 - Solution URL: [https://github.com/michelwene/nft-preview-card-component](https://github.com/michelwene/nft-preview-card-component)
-- Live Site URL: [https://michelwene.github.io/stats-preview-card/](https://michelwene.github.io/stats-preview-card/)
+- Live Site URL: [https://michelwene.github.io/nft-preview-card-component/](https://michelwene.github.io/stats-preview-card/)
 
 ## Meu processo
 
