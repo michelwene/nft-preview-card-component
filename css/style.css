@@ -43,7 +43,7 @@ main{
     font-family: 'Outfit';
     font-weight: 400;
     font-size: 18px;
-    padding-right: 25px;
+    padding-right: 2.0em;
 }
 
 .value{
@@ -71,11 +71,11 @@ main{
     justify-content: flex-start;
     align-items: flex-end;
     width: 100%;
-    padding-left: 50px;
+    padding-left: 2.25rem;
 }
 
 .creator p{
-    padding-left: 10px;
+    padding-left: 1.5rem;
     color: hsl(215, 51%, 70%);
 }
 
