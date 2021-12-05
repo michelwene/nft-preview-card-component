@@ -37,12 +37,12 @@ Os usuários devem ser capazes de:
 
 - Tablet
 <p  align="center" >
-  <img src="images/127.0.0.1-Ipad-Mini-768x2014.png" alt="Imagem-Desktop"/>
+  <img src="images/127.0.0.1-iPad-Mini-768x1024.png" alt="Imagem-Table"/>
 </p>
 
 - Mobile
 <p  align="center" >
-  <img src="images/127.0.0.1-iPhone-8-Plus-7-Plus-6S-Plus-414x736.png" alt="Imagem-Desktop"/>
+  <img src="images/127.0.0.1-iPhone-8-Plus-7-Plus-6S-Plus-414x736.png" alt="Imagem-Celular"/>
 </p>
 
 ### Links
