@@ -45,6 +45,10 @@ Os usuários devem ser capazes de:
   <img src="images/127.0.0.1-iPhone-8-Plus-7-Plus-6S-Plus-414x736.png" alt="Imagem-Desktop"/>
 </p>
 
+- Gif
+<p  align="center" >
+  <img src="images/127.0.0.gif"/>
+</p>
 ### Links
 
 - Solution URL: [https://github.com/michelwene/nft-preview-card-component](https://github.com/michelwene/nft-preview-card-component)
