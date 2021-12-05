@@ -16,7 +16,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Outfit:wght@305;400;600&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap"
       rel="stylesheet"
     />
     <title>Frontend Mentor | NFT preview card component</title>
@@ -24,19 +24,23 @@
   <body>
     <main>
       <div class="card">
-        <img
-          src="images/image-equilibrium.jpg"
-          alt="imagem-bloco-nft"
-          class="nft"
-        />
+        <div class="thumbnail">
+          <img
+            src="images/image-equilibrium.jpg"
+            alt="imagem-bloco-nft"
+            class="nft"
+          />
+          <div class="overlay"></div>
+        </div>
         <h1 class="title">Equilibrium #3429</h1>
         <p class="text">
           Our Equilibrium collection promotes balance and calm.
         </p>
         <div class="value">
-          <div class="eth">0.041 ETH</div>
-          <div class="days">3 days left</div>
+          <div class="eth eth__item">0.041 ETH</div>
+          <div class="days days__item">3 days left</div>
         </div>
+        <hr />
         <div class="creator">
           <img
             src="images/image-avatar.png"
@@ -44,16 +48,16 @@
             class="avatar"
             style="max-width: 30px"
           />
-          <p>Creation of <strong class="Jules">Jules Wyvern</strong></p>
+          <p>Creation of <strong class="Jules"> Jules Wyvern</strong></p>
         </div>
       </div>
     </main>
     <footer>
       <div class="attribution">
-        Challenge by
-        <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
-          >Frontend Mentor</a
-        >. Coded by <a href="#">Michel Wene</a>.
+        Challenge by:
+        <a href="https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U" target="_blank"
+          > Frontend Mentor</a
+        >. Coded by: <a href="https://github.com/michelwene"> Michel Wene</a>.
       </div>
     </footer>
   </body>
